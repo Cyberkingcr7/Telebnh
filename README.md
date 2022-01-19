@@ -6,4 +6,4 @@ Just a simple bot from telegram. I was just checking out telegram api. But I wil
 # Cloning into the bot
 - npm i
 - git clone https://github.com/Cyberkingcr7/telebnh
-- npm start
+- node index.js
